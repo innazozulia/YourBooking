@@ -19,7 +19,9 @@ Client side npm packages:
  Screenshots:
  Main page:
  <img width="1432" alt="main" src="https://user-images.githubusercontent.com/117219185/202787460-58dd2e33-98e9-43bb-9260-acfca046c502.png">
+ 
 <img width="1430" alt="main2" src="https://user-images.githubusercontent.com/117219185/202787525-74800486-47b7-44ab-833b-b1741acec16f.png">
+
 <img width="1429" alt="main3" src="https://user-images.githubusercontent.com/117219185/202787559-d15a0666-84ba-46be-86b7-2a1463e404de.png">
 
 Menu for date:
@@ -33,11 +35,14 @@ Search Results:
 
 Hotel Page:
 <img width="1432" alt="hotel" src="https://user-images.githubusercontent.com/117219185/202791185-f5200df1-83f1-4219-ba78-6799eefb263f.png">
-![Uploading hotel2.png…]()
+
+<img width="1426" alt="hotel2" src="https://user-images.githubusercontent.com/117219185/202791861-9ac783e1-86c7-4183-9da3-f7e198d418b0.png">
+
 <img width="1424" alt="hotel3" src="https://user-images.githubusercontent.com/117219185/202791250-6dbbb7bc-615d-4b5d-8bf9-05d47658c53f.png">
 
 Hotel Page Slider
-![Uploading slider.png…]()
+<img width="1432" alt="slider" src="https://user-images.githubusercontent.com/117219185/202792088-473da317-15a0-4b0c-a777-4c2303122815.png">
+
 <img width="1434" alt="slider 2" src="https://user-images.githubusercontent.com/117219185/202791390-04cc6534-a82a-4a11-b4e2-a61e82403f34.png">
 
 
