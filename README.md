@@ -30,3 +30,15 @@ Menu for options:
 
 Search Results:
 <img width="1431" alt="Screenshot 2022-11-18 at 21 29 02" src="https://user-images.githubusercontent.com/117219185/202787911-1584bc07-02a2-4860-a36f-0b2b2333d71a.png">
+
+Hotel Page:
+<img width="1432" alt="hotel" src="https://user-images.githubusercontent.com/117219185/202791185-f5200df1-83f1-4219-ba78-6799eefb263f.png">
+![Uploading hotel2.png…]()
+<img width="1424" alt="hotel3" src="https://user-images.githubusercontent.com/117219185/202791250-6dbbb7bc-615d-4b5d-8bf9-05d47658c53f.png">
+
+Hotel Page Slider
+![Uploading slider.png…]()
+<img width="1434" alt="slider 2" src="https://user-images.githubusercontent.com/117219185/202791390-04cc6534-a82a-4a11-b4e2-a61e82403f34.png">
+
+
+
